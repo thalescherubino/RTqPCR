@@ -1,0 +1,5 @@
+	aca.MDH.opt	aca.MDH.wat	aca.target.opt	aca.target.wat	aca.UBQ.opt	aca.UBQ.wat	cat.MDH.opt	cat.MDH.wat	cat.target.opt	cat.target.wat	cat.UBQ.opt	cat.UBQ.wat
+opt - wat	-0.25	0.25	0.5	-0.5	-0.25	0.25	-0.25	0.25	0.5	-0.5	-0.25	0.25
+aca - cat	-0.25	-0.25	0.5	0.5	-0.25	-0.25	0.25	0.25	-0.5	-0.5	0.25	0.25
+aca.opt - aca.wat	-0.5	0.5	1	-1	-0.5	0.5	0	0	0	0	0	0
+cat.opt - cat.wat	0	0	0	0	0	0	-0.5	0.5	1	-1	-0.5	0.5
